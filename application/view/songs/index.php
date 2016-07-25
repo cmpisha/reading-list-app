@@ -1,4 +1,4 @@
-<div class="container">
+<div class="main col-sm-9">
     <h2>You are in the View: application/view/song/index.php (everything in this box comes from that file)</h2>
     <!-- add song form -->
     <div class="box">
