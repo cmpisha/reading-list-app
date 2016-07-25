@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>MINI</title>
+    <title>Reading List</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -16,7 +16,8 @@
 <body>
     <!-- logo -->
     <div class="logo">
-        MINI
+        <h3>Reading</h3>
+        <h1>List</h1>
     </div>
 
     <!-- navigation -->
